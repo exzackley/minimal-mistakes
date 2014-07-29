@@ -1,15 +1,15 @@
-title:            Site Title
-description:      Describe your website.
+title:            Move to Crane
+description:      Something we are trying to make happen. 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           The Exleys
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "Join us!"
+  email:          zackexley@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
@@ -37,16 +37,17 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Posts
+  - title: Living
+    url: /living/
+  - title: Learning
+    url: /learning/
+  - title: Blog
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Contact
+    url: /contact/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Chicago
 future:      true
 pygments:    true
 #highlighter: pygments
