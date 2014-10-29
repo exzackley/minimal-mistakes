@@ -29,7 +29,10 @@
 ## More Theme Setup Goodness
 
 To learn more about how customize this theme, include feature images in posts, use the Grunt build scripts, and some other junk, [read up here](http://mmistakes.github.io/minimal-mistakes/theme-setup/).
+<<<<<<< HEAD
 
+=======
+>>>>>>> fc9c8cf23b57acd5caee0386bacedb33dd53f38e
 
 ---
 
