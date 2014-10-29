@@ -3,7 +3,7 @@
 title:            Move to Crane
 description:      Something we are trying to make happen. 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://www.ozarkclassical.org
 # Comment out url when working locally to resolve base urls correctly
 # url:              http://www.ozarkclassical.org
 disqus_shortname:
