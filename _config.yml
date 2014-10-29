@@ -1,19 +1,14 @@
-<<<<<<< HEAD
+=======
 title:            Move to Crane
 description:      Something we are trying to make happen. 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
-=======
-title:            Minimal Mistakes
-description:      A responsive Jekyll theme large featured images and solid typography.
-#Comment out url when working locally to resolve base urls correctly
-url:              http://mmistakes.github.io/minimal-mistakes
->>>>>>> fc9c8cf23b57acd5caee0386bacedb33dd53f38e
+# Comment out url when working locally to resolve base urls correctly
+# url:              http://www.ozarkclassical.org
 disqus_shortname:
 
 # Owner/author information
 owner:
-<<<<<<< HEAD
   name:           The Exleys
   avatar:         bio-photo.jpg
   bio:            "Join us!"
@@ -31,31 +26,14 @@ owner:
   foursquare:
   steam:
   dribbble:
-=======
-  name:           Michael Rose
-  avatar:         bio-photo.jpg
-  bio:            "Just another boring, time traveling, tattooed, designer from Buffalo New York."
-  email:          michael@mademistakes.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        "mmistakes"
-  github:         "mmistakes"
-  instagram:      "mmistakes"
->>>>>>> fc9c8cf23b57acd5caee0386bacedb33dd53f38e
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "MichaelRoseDesign"
+  google_plus:    "zackexley"
 
 # Analytics and webmaster tools stuff goes here
-<<<<<<< HEAD
 google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
-=======
-google_analytics:   UA-2011187-3
-google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD
->>>>>>> fc9c8cf23b57acd5caee0386bacedb33dd53f38e
 
 # Links to include in top navigation
 # For external links add external: true
@@ -96,8 +74,5 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-<<<<<<< HEAD
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 =======
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
->>>>>>> fc9c8cf23b57acd5caee0386bacedb33dd53f38e
